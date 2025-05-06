@@ -1,7 +1,8 @@
 # dsw_ava_2
 
 **Nome completo:** João Vitor Resin Nogueira 
-**Data:** 06/05/2025  
+
+**Data:** 06/05/2025
 **Unidade Curricular:** Desenvolver de Serviços Web
 
 ## O que é uma API REST?
