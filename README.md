@@ -1,8 +1,8 @@
 # dsw_ava_2
 
-**Nome completo:** João da Silva  
+**Nome completo:** João Vitor Resin Nogueira 
 **Data:** 06/05/2025  
-**Unidade Curricular:** Desenvolvimento de Sistemas Web (DSW)
+**Unidade Curricular:** Desenvolver de Serviços Web
 
 ## O que é uma API REST?
 
