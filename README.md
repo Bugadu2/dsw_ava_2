@@ -22,16 +22,15 @@ Uma API REST (Representational State Transfer) é um conjunto de definições qu
 
 ## Como testar este projeto
 
+- Instale as dependências com o Composer:
 
-Instale as dependências com o Composer:
+- composer install
 
-composer install
+- **Inicie o servidor embutido do PHP dentro da pasta do projeto:**
 
-Inicie o servidor embutido do PHP dentro da pasta do projeto:
+- php -S localhost:8080
 
-php -S localhost:8080
-
-Acesse os endpoints pelo navegador ou ferramenta como Postman:
+- **Acesse os endpoints pelo navegador ou ferramenta como Postman:**
 
 http://localhost:8080/uma-api
 
